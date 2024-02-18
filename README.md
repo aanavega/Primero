@@ -1,4 +1,4 @@
-# Primero
+# Reto numero 2: Codigo Holamundo
 
 Codigos primer repositorio
 
