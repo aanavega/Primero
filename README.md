@@ -1,6 +1,9 @@
 # Reto numero 2: Codigo Hola mundo
 
-Codigos primer repositorio
+A continuacion el codigo propuesto en los tres editores solicitados
+#Python
+#Git
+#Vs Code
 
 - Python:
 
