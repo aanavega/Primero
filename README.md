@@ -1,10 +1,10 @@
 # Reto numero 2: Codigo Hola mundo
 
-A continuacion el codigo propuesto en los tres editores solicitados
+A continuacion el codigo propuesto:
 
-#Python
-#Git
-#Vs Code
+if __name__ == "__main__" :
+
+print("Hola mundo") ejecutado en las terminales propuestas: de python, VS Code y GIT.
 
 - Python:
 
